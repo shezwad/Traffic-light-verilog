@@ -1,0 +1,77 @@
+$date
+	Mon May 24 23:47:49 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module LED_lights_test $end
+$var wire 1 ! Ys $end
+$var wire 1 " Ym $end
+$var wire 1 # Walk $end
+$var wire 1 $ Rs $end
+$var wire 1 % Rm $end
+$var wire 1 & Gs $end
+$var wire 1 ' Gm $end
+$var reg 7 ( LEDs [6:0] $end
+$scope module t1 $end
+$var wire 7 ) LEDs [6:0] $end
+$var reg 1 ' Gm $end
+$var reg 1 & Gs $end
+$var reg 1 % Rm $end
+$var reg 1 $ Rs $end
+$var reg 1 # Walk $end
+$var reg 1 " Ym $end
+$var reg 1 ! Ys $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 )
+b0 (
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#100000
+1%
+b1000000 (
+b1000000 )
+#150000
+1"
+0%
+b100000 (
+b100000 )
+#200000
+1'
+0"
+b10000 (
+b10000 )
+#250000
+1$
+0'
+b1000 (
+b1000 )
+#300000
+1!
+0$
+b100 (
+b100 )
+#350000
+1&
+0!
+b10 (
+b10 )
+#400000
+1#
+0&
+b1 (
+b1 )
+#420000
